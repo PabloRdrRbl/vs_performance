@@ -1,0 +1,7 @@
+# Ignore
+.DS_Store
+.ipynb_checkpoints/
+
+/bag_files
+/experiments
+/plots
